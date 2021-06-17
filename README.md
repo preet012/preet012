@@ -6,7 +6,7 @@
 - 📫 You can find me on: [![LinkedIn][2.2]][1]
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />-->
 
 <!-- Icons -->
 
