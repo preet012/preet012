@@ -3,7 +3,7 @@
 - 🔭 I work on the intersection of Machine Learning and Data Science. I have a soft spot for visual data though 😄 
 - 🌱 I’m currently learning to get better at my data engineering skills.
 - 👯 I’m looking to collaborate on cool projects involving algorithm development for AI solutions to real world problems, specially interested in a mix of NLP and Computer Vision, and medical imaging.
-- 📫 How to reach me: You can find me on [![LinkedIn][2.2]][1].
+- 📫 How to reach me: You can find me on: [![LinkedIn][2.2]][1]
 
 <!-- Icons -->
 
