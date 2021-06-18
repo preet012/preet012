@@ -4,9 +4,9 @@
 - 🌱 I'm currently learning to get better at my data engineering skills.
 - 👯 I'm looking to collaborate on cool projects involving algorithm development for AI solutions to real world problems, specially interested in a mix of NLP and Computer Vision, and medical imaging.
 - :v: I love reading, bouldering, biking and yoga.
-<!--- ⚡ Fun fact: After my university, I went to Africa for a 2 week vacation, which ended up being 2 months of me doing gorilla trekking, mountain climbing and snorkeling in the bluest of the seas. 😄 -->
 - 📫 You can find me on: [![LinkedIn][2.2]][1]
 
+<!--- ⚡ Fun fact: After my university, I went to Africa for a 2 week vacation, which ended up being 2 months of me doing gorilla trekking, mountain climbing and snorkeling in the bluest of the seas. 😄 -->
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />-->
 
