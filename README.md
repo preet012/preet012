@@ -1,6 +1,6 @@
 ### Hi there! I'm Gurwinder👋
 
-- 🔭 I work on the intersection of Machine Learning and Data Science. I have a soft spot for visual data processing though.😄 
+- 🔭 I work on the intersection of Machine Learning and Data Science, with a soft spot for visual data processing.😄 
 - 🌱 I'm currently learning to get better at my data engineering skills.
 - 👯 I'm looking to collaborate on cool projects involving algorithm development for AI solutions to real world problems, specially interested in a mix of NLP and Computer Vision, and medical imaging.
 - :v: I love reading, bouldering, biking and yoga.
